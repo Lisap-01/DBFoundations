@@ -1,4 +1,3 @@
-# DBFoundations-Module06 - VIEWS
 
 Lisa Jones
 
@@ -11,6 +10,7 @@ Assignment06
 https://lisap-01.github.io/DBFoundations-Module06/
 
 # **Views**
+
 
 ## **Introduction**
 
