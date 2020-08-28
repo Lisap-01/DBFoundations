@@ -12,19 +12,19 @@ https://lisap-01.github.io/DBFoundations-Module06/
 # **Views**
 
 
-## **Introduction**
+##### **Introduction**
 
 A SQL view is a query, simple or complex, that is named and saved.  The result set of the query can then be viewed over and over again without re-writing the query for every use, and always provides results from up-to-date tables. 
 Explain when you would use a SQL View
 There are multiple reasons you would use a SQL view.  Below are 3 reasons:
 
-## **1.	Data Security Purposes**
+##### **1.	Data Security Purposes**
 Views protect privacy when used to filter data that is only available for authorized users. For example, a view may be created from the Employees table to allow HR Managers to view private information such as Employees SSN or DOB.  Whereas, a separate view may be created from the Employees table for an IT Department to view Employees’ employee ID and user ID which may be required to provide the employee authorized access to company applications or data, but withholds the employee’s SSN or DOB.
 
-## **2.	Data Reporting**
+##### **2.	Data Reporting**
 Views may be used to provide reporting to end-users.  Most end-users are unable to write queries to pull the data the need.  Views are easy to use, provide data reports in an easily consumable way, and hides all of the complex tables and raw data in the ‘background’.  Views provide up-to-date information as they always pull the most current data from the database.
 
-## **3.	Views Don’t Take Space**
+##### **3.	Views Don’t Take Space**
 >Views are used to store your code, not complete tables. Each time you call a view, you’ll run the related query. Therefore, you don’t lose disk space on views. 
 (https://www.sqlshack.com/learn-sql-sql-views/, external site, 2020)
 
