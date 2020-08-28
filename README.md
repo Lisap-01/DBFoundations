@@ -8,7 +8,7 @@ IT FDN 130 A: Foundations of Database Management
 
 Assignment06 
 
-https://github.com/Lisap-01/DBFoundations-Module06
+https://lisap-01.github.io/DBFoundations-Module06/
 
 # **Views**
 
