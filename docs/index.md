@@ -12,7 +12,7 @@ https://lisap-01.github.io/DBFoundations-Module06/
 # **Views**
 
 
-##### **Introduction**
+## **Introduction**
 
 A SQL view is a query, simple or complex, that is named and saved.  The result set of the query can then be viewed over and over again without re-writing the query for every use, and always provides results from up-to-date tables. 
 Explain when you would use a SQL View
